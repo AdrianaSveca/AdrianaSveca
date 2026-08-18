@@ -14,4 +14,4 @@ Java · Python · C# · PHP · Laravel · MySQL · Unity · Blender
 - Preparing for my final year at university
 - Learning German 🇩🇪
 
-- [![GitHub Streak](https://streak-stats.demolab.com/?user=AdrianaSveca&theme=tokyonight)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=AdrianaSveca&theme=tokyonight)](https://git.io/streak-stats)
